@@ -1,0 +1,6 @@
+[{"question_txt":"wahet are dolphisns",
+  "alternatives":["Amphibians","Fish","Mammals"],
+  "correct_amswer":3},
+{"question_txt":"wahet ocuppates most of erth surface",
+  "alternatives":["land","wather"],
+  "correct_amswer":2}]
